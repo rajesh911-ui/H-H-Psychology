@@ -1,0 +1,6 @@
+{
+  "name": "Haven & Hearth Psychology | Dr. Elena Vance, PsyD",
+  "description": "A calm, modern, and trustworthy private psychology and therapy practice offering evidence-based individual, anxiety, trauma, and couples psychotherapy in-person and via telehealth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
